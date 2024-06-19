@@ -37,7 +37,7 @@ Components Description
   - This screen captures the login interface, highlighting the input fields for email and name.
 
 - Home Screen:
-    <img src="![alt text](a7eacde5-24a2-4f93-aa61-762cb2a4d44f.jpg) width="400" />
+    <img src="![alt text](a7eacde5-24a2-4f93-aa61-762cb2a4d44f.jpg) width="400 />
   - This screen shows the home screen layout, including the user's email and name, as well as the job sections.
 
 - Job Card:
