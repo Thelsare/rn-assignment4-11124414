@@ -33,7 +33,7 @@ Components Description
 #### Screenshots
 
 - *Login Screen*:
-    <img src="D:\THELMA\Level200_2nd Semester\DCIT 202\rn-assignment4-11124414\Login image.jpg" width="400" />
+    <img src="D:\THELMA\Level200_2nd Semester\DCIT 202\rn-assignment4-11124414\Homepage screenshot.jpg" width="400" />
   - This screen captures the login interface, highlighting the input fields for email and name.
 
 - Home Screen:
