@@ -33,11 +33,11 @@ Components Description
 #### Screenshots
 
 - *Login Screen*:
-    <img src="https://i.ibb.co/80JL3KR/Screenshot-20240619-205405.jpg" width="400" />
+    <img src="D:\THELMA\Level200_2nd Semester\DCIT 202\rn-assignment4-11124414\Login image.jpg" width="400" />
   - This screen captures the login interface, highlighting the input fields for email and name.
 
 - Home Screen:
-    <img src="https://i.ibb.co/58yrPBm/Screenshot-20240619-205508.jpg" width="400" />
+    <img src="D:\THELMA\Level200_2nd Semester\DCIT 202\rn-assignment4-11124414\Homepage screenshot.jpg" width="400" />
   - This screen shows the home screen layout, including the user's email and name, as well as the job sections.
 
 - Job Card:
