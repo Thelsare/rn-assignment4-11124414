@@ -1,5 +1,5 @@
 # rn-assignment4-11124414
-
+STUDENT ID:11124414
 
 Project Overview
 
@@ -15,13 +15,11 @@ Key Features
    - User Information Display: Upon successful login, the home screen prominently displays the email and name of the user as entered on the login screen. This is crucial for personalizing the user experience and demonstrating the data flow between screens.
    - Job Sections: The home screen is divided into two main sections, "Popular Jobs" and "Featured Jobs." Each section displays a collection of job cards, with a minimum of eight distinct job cards in each. This requirement ensures adequate representation of job listings and highlights different categories of jobs.
 
-3. Job Cards:
-   -Functional Component: The job cards are implemented as functional components that are used to populate the job sections on the home screen. These components are designed to accept properties (props) such as job title, company name, and location details. This modular approach facilitates the reuse of the job card component across different sections and screens.
 
-4. Styling:
+3. Styling:
    - Adherence to Mockup: The application's styling closely adheres to the provided UI design mockup. This includes layout, colors, fonts, and spacing, ensuring a consistent and professional appearance that matches the expected design standards.
 
-5.Custom Components:
+4.Custom Components:
    - Modular Design: Custom components are utilized throughout the application to promote consistency, reusability, and maintainability. This modular design approach enhances the organization of the code and simplifies future updates or feature additions.
 
 Components Description
@@ -40,7 +38,5 @@ Components Description
     "![alt text](a7eacde5-24a2-4f93-aa61-762cb2a4d44f.jpg)"
   - This screen shows the home screen layout, including the user's email and name, as well as the job sections.
 
-- Job Card:
-  - This image illustrates a sample job card, displaying the job title, company name, and location details.
 
  
